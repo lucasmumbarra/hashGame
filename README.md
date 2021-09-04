@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Projeto produzido para um bootcamp da [Digital Innovation One] (https://digitalinnovation.one).
+Projeto produzido para um bootcamp da [Digital Innovation One](https://digitalinnovation.one).
 
 # Descrição do Projeto
 Neste projeto, foi desenvolvido um jogo da velha utilizando HTML, CSS e Javascript.
